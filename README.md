@@ -4,7 +4,7 @@
 Me chamo Roberto Waide
 Atualmente estou estudando Sistem de Informação na AFM
 
-Meio de contantato:
+Meio de contato:
 ##### robertowaide.com@gmail.com
 <!--
 **RobertoWaide/RobertoWaide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
